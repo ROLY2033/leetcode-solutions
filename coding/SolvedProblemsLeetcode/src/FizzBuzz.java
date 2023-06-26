@@ -5,9 +5,10 @@ public class FizzBuzz {
      * @return void
      * @see     Main
      * @author  Roly Anibal Quellca Hancco
+     *
      */
 
-    //Constructor
+    //Constructor 
     public FizzBuzz(int n) {
 
         //change for() -> while()
